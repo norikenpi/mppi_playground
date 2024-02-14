@@ -1,6 +1,6 @@
 {
     "name": "dev",
-    "dockerFile": "../Dockerfile",
+    "image": "ghcr.io/norikenpi/mppi_playground:0.0.1",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
